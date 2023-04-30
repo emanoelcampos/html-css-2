@@ -2,7 +2,7 @@
 
 Este repositório contém o material do segundo curso de HTML e CSS para iniciantes em desenvolvimento web, oferecido pela Alura em colaboração com o programa One da Oracle. O curso tem como objetivo proporcionar uma introdução às linguagens essenciais para o desenvolvimento web. Durante o curso, foram revisados conceitos fundamentais para criação de páginas web estáticas e estilização com CSS, com exercícios e atividades práticas para reforçar o aprendizado
 
-## Aprendizagem Baseada em Projetos 
+## Aprendizagem baseada em projetos 
 
 O projeto desenvolvido durante o curso consistiu na criação de uma página web estática utilizando HTML e CSS. Além de reforçar os conceitos aprendidos no curso anterior, novos conceitos foram introduzidos e aplicados no projeto, como o posicionamento de elementos. Você pode conferir como o projeto ficou clicando [aqui](https://emanoelcampos.github.io/html-css-2/).
 
