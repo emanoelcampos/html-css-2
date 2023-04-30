@@ -6,6 +6,12 @@ Este repositório contém o material do segundo curso de HTML e CSS para inician
 
 O projeto desenvolvido durante o curso consistiu na criação de uma página web estática utilizando HTML e CSS. Além de reforçar os conceitos aprendidos no curso anterior, novos conceitos foram introduzidos e aplicados no projeto, como o posicionamento de elementos. Você pode conferir como o projeto ficou clicando [aqui](https://emanoelcampos.github.io/html-css-2/).
 
+
+<div align="center">
+<img alt="página projeto" height="500" width="669" src="https://raw.githubusercontent.com/emanoelcampos/html-css-2/master/assets/img-readme.png">
+ </div>
+
+
 ## Assuntos abordados no curso:
 
 - Revisão da estrutura HTML: Tag `meta`, `title` e `links`
